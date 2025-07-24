@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlopsproject/mlopsproject/mlruns/685140189675996427/30f55ee50ca2428bbd4d9d2a256a4e7b/artifacts
+end_time: 1753345110493
+entry_point_name: ''
+experiment_id: '685140189675996427'
+lifecycle_stage: active
+run_id: 30f55ee50ca2428bbd4d9d2a256a4e7b
+run_name: delicate-elk-650
+run_uuid: 30f55ee50ca2428bbd4d9d2a256a4e7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753345103924
+status: 3
+tags: []
+user_id: Poola Sushma

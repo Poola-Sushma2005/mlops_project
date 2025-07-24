@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlopsproject/mlopsproject/mlruns/685140189675996427/7ba12a7587e64e978f8acdf88466d8d9/artifacts
+end_time: 1753345088425
+entry_point_name: ''
+experiment_id: '685140189675996427'
+lifecycle_stage: active
+run_id: 7ba12a7587e64e978f8acdf88466d8d9
+run_name: aged-ram-837
+run_uuid: 7ba12a7587e64e978f8acdf88466d8d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753345082925
+status: 3
+tags: []
+user_id: Poola Sushma

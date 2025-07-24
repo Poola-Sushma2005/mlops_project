@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlopsproject/mlopsproject/mlruns/685140189675996427/03df88febd90466fa76b922989ae3f7c/artifacts
+end_time: 1753258626880
+entry_point_name: ''
+experiment_id: '685140189675996427'
+lifecycle_stage: active
+run_id: 03df88febd90466fa76b922989ae3f7c
+run_name: treasured-whale-54
+run_uuid: 03df88febd90466fa76b922989ae3f7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753258621747
+status: 3
+tags: []
+user_id: Poola Sushma

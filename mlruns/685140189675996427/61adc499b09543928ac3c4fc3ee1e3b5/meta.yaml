@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlopsproject/mlopsproject/mlruns/685140189675996427/61adc499b09543928ac3c4fc3ee1e3b5/artifacts
+end_time: 1753251674033
+entry_point_name: ''
+experiment_id: '685140189675996427'
+lifecycle_stage: active
+run_id: 61adc499b09543928ac3c4fc3ee1e3b5
+run_name: secretive-slug-178
+run_uuid: 61adc499b09543928ac3c4fc3ee1e3b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753251668169
+status: 3
+tags: []
+user_id: Poola Sushma

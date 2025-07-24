@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlopsproject/mlopsproject/mlruns/685140189675996427/87b66d5326e741b9958573d9ce439943/artifacts
+end_time: 1753253725846
+entry_point_name: ''
+experiment_id: '685140189675996427'
+lifecycle_stage: active
+run_id: 87b66d5326e741b9958573d9ce439943
+run_name: rogue-fowl-780
+run_uuid: 87b66d5326e741b9958573d9ce439943
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753253719661
+status: 3
+tags: []
+user_id: Poola Sushma

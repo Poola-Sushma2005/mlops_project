@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlopsproject/mlopsproject/mlruns/685140189675996427/231b4dc8edf840e8a4eeccf719e58f71/artifacts
+end_time: 1753251348201
+entry_point_name: ''
+experiment_id: '685140189675996427'
+lifecycle_stage: active
+run_id: 231b4dc8edf840e8a4eeccf719e58f71
+run_name: fearless-yak-466
+run_uuid: 231b4dc8edf840e8a4eeccf719e58f71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753251341906
+status: 3
+tags: []
+user_id: Poola Sushma

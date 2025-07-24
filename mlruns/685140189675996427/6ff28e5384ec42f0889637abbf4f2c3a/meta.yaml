@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlopsproject/mlopsproject/mlruns/685140189675996427/6ff28e5384ec42f0889637abbf4f2c3a/artifacts
+end_time: 1753334040446
+entry_point_name: ''
+experiment_id: '685140189675996427'
+lifecycle_stage: active
+run_id: 6ff28e5384ec42f0889637abbf4f2c3a
+run_name: bedecked-koi-680
+run_uuid: 6ff28e5384ec42f0889637abbf4f2c3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753334034106
+status: 3
+tags: []
+user_id: Poola Sushma

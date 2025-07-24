@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlopsproject/mlopsproject/mlruns/685140189675996427/afa7b418b64b44618c567345c4f512f3/artifacts
+end_time: 1753334251643
+entry_point_name: ''
+experiment_id: '685140189675996427'
+lifecycle_stage: active
+run_id: afa7b418b64b44618c567345c4f512f3
+run_name: merciful-ape-816
+run_uuid: afa7b418b64b44618c567345c4f512f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753334245415
+status: 3
+tags: []
+user_id: Poola Sushma
